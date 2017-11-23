@@ -79,6 +79,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Juan Bono](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/juanbono.md) | FP | 4-6hs |
 | [Karen Serfati](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/keyserfati.md) | FP | 4hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
+| [Lisandro Sebrie](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lsebrie.md) | FP | 4-8hs |
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
